@@ -16,6 +16,7 @@ body{
     width:400px;
     background:white;
     border-radius:10px;
+    padding:50px;
 }
 .signupbox h1{
     text-align:center;
@@ -92,6 +93,7 @@ input [type="submit"]{
     font-weight:700;
     cursor:pointer;
     outline:none;
+    padding:20px;
 }
 input [type="submit"]:hover{
     border-color:#865439;
@@ -101,7 +103,7 @@ input[value="Sign Up"]{
     display:block;
     margin-left:40px;
     margin-right:25px;
-    padding:10px;
+    padding:30px;
     width:75%;
     border:1px solid;
     color:white;
