@@ -56,7 +56,7 @@
                     <img src="image/bgbeverages.jpg" width="400px" height="300px" alt="">
                     <div class="content-text">
                         <h2>Beverages</h2>
-                        <p>There are many menu for beverages</p>
+                        <p>Menu for beverages</p>
                         <a href="beverages.php" class="coffee"><button class="learn">Check Here ! </button></a>
                     </div>
                 </article>
@@ -64,7 +64,7 @@
                     <img src="image/bgdesserts.jpg" width="400px" height="300px" alt="">
                     <div class="content-text">
                         <h2>Desserts</h2>
-                        <p>There are many menu for desserts</p>
+                        <p>Menu for desserts</p>
                         <a href="desserts.php" class="coffee"><button class="learn">Check Here ! </button></a>
 
                     </div>
