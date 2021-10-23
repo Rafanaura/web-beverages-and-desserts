@@ -13,7 +13,7 @@ session_start();
     <title>menu beverages and desserts</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="home.css">
 </head>
 <body>
     
@@ -28,7 +28,7 @@ session_start();
             <li><a href="#contact">Contact</a></li>
             <li><a href="login.php">Login</a></li>
             <li><a href="signup.php">SignUp</a></li>
-            <li><a href="#">Logout</a></li>
+            <li><a href="logout.php">Logout</a></li>
         </ul>
     </nav>
 
@@ -65,7 +65,7 @@ session_start();
                     <img src="image/bgbeverages.jpg" width="400px" height="300px" alt="">
                     <div class="content-text">
                         <h2>Beverages</h2>
-                        <p>There are menu for beverages</p>
+                        <p>Menu for beverages</p>
                         <a href="beverages.php" class="coffee"><button class="learn">Check Here ! </button></a>
                     </div>
                 </article>
@@ -73,7 +73,7 @@ session_start();
                     <img src="image/bgdesserts.jpg" width="400px" height="300px" alt="">
                     <div class="content-text">
                         <h2>Desserts</h2>
-                        <p>There are menu for desserts</p>
+                        <p>Menu for desserts</p>
                         <a href="desserts.php" class="coffee"><button class="learn">Check Here ! </button></a>
 
                     </div>
