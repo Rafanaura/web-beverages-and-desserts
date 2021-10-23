@@ -31,7 +31,21 @@
             <a href="#about" class="coffee"><button class="learn">Learn More</button></a>
         </div>
     </section>
-
+    
+    <div class="section">
+        <div class="about">
+            <div class="content-section">
+                <div class="title">
+                    <h2>Our Cafe</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur ex eum quasi. Deserunt natus, mollitia similique sit impedit quos dignissimos dolores, accusantium, itaque officiis non voluptatum. Earum itaque architecto pariatur porro labore illo maiores, velit vel quaerat voluptate id in, veritatis expedita quis, officia dicta assumenda quas consectetur quia incidunt delectus! Corporis aliquid veniam cum, dolorem qui natus voluptatibus corrupti.</p>
+                </div>
+            </div>
+            <div class="img-section">
+                <img src="image/fotocafe.jpg" alt="">
+            </div>
+        </div>
+    </div>
+    
     <section class="content" id="menu">
         <div class="menu">
             <h1><b>MENU</b></h1>
